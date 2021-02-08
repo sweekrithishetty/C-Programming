@@ -1,2 +1,2 @@
-# C-Programming
-Cover All topics of C
+# C-Programming:
+Includes basics and Practice Set 
