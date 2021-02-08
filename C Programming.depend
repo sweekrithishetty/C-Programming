@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1612712746 source:c:\users\sweekrithi shetty\desktop\ds-ml\c programming\main.c
+	<stdio.h>
+
+1612714751 source:c:\users\sweekrithi shetty\desktop\ds-ml\c programming\variables.c
+	<stdio.h>
+
+1612715169 source:c:\users\sweekrithi shetty\desktop\ds-ml\c programming\printf.c
+
+1612727145 source:c:\users\sweekrithi shetty\desktop\ds-ml\c programming\character.c
+	<stdio.h>
+
+1612726106 source:c:\users\sweekrithi shetty\desktop\ds-ml\c programming\datatypes.c
+	<stdio.h>
+
+1612726115 source:c:\users\sweekrithi shetty\desktop\ds-ml\c programming\integer.c
+	<stdio.h>
+	<limits.h>
+
+1612727205 source:c:\users\sweekrithi shetty\desktop\ds-ml\c programming\datatype1.c
+	<stdio.h>
+
